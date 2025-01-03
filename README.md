@@ -1,6 +1,6 @@
 # App de Clima
 
-<h2>Um aplicativo simples e poderoso para previsão do tempo que fornece dados meteorológicos em tempo real com base na sua localização ou qualquer cidade ao redor do mundo. Ele oferece informações detalhadas sobre o clima atual, incluindo temperatura, umidade, velocidade do vento e outras condições atmosféricas.</h2>
+Um aplicativo simples e poderoso para previsão do tempo que fornece dados meteorológicos em tempo real com base na sua localização ou qualquer cidade ao redor do mundo. Ele oferece informações detalhadas sobre o clima atual, incluindo temperatura, umidade, velocidade do vento e outras condições atmosféricas.
 
 # Funcionalidades
 <ul>
